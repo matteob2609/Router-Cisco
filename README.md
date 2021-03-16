@@ -1,5 +1,7 @@
 # Configurazione di un router Cisco
 
+Piccola guida per la configurazione iniziale di un Router Cisco.
+
 ### :ghost: COMANDI PRINCIPALI
 
 - _enable_, entra in modalità **Privileged Exec**, passaggio del terminale da > a #;
