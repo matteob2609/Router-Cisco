@@ -4,7 +4,17 @@
 
 [Comandi principali](https://github.com/matteob2609/Router-Cisco/blob/main/README.md#ghost-comandi-principali)
 
+[Modifica dell'hostname](https://github.com/matteob2609/Router-Cisco/blob/main/README.md#ghost-modifica-dellhostname)
 
+[Password Privileged EXEC]()
+
+[Password Eser EXEC]()
+
+[Password linee del terminale virtuale (VTY)]()
+
+[Crittografia delle password]()
+
+[Configurazione di un'interfaccia]()
 
 ### :ghost: COMANDI PRINCIPALI
 
