@@ -52,6 +52,6 @@
 
 - _Router(config-if)#no shutdown_, abilita l'interfaccia.
 
-:pushpin:`Checkpoint: se l'interfaccia è stata abilitata correttamente verrà visualizzato il seguente output`.
+:pushpin:`Checkpoint: se l'interfaccia è stata abilitata correttamente verrà visualizzato il seguente output:`.
 
     %LINK-5-CHANGED: Interface 'nome_interfaccia', changed state to up
