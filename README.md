@@ -12,7 +12,7 @@
 
 [Password linee del terminale virtuale (VTY)](https://github.com/matteob2609/Router-Cisco/blob/main/README.md#ghost-password-linee-del-terminale-virtuale-vty)
 
-[Crittografia delle password]()
+[Crittografia delle password](https://github.com/matteob2609/Router-Cisco/blob/main/README.md#ghost-crittografia-delle-password)
 
 [Configurazione di un'interfaccia]()
 
