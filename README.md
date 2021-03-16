@@ -1,6 +1,6 @@
 # Configurazione di un router Cisco
 
-Piccola guida per la configurazione iniziale di un Router Cisco.
+❗ Prerequisito: avere Packet Tracer (risorsa Cisco) installato sul computer.
 
 ### :ghost: COMANDI PRINCIPALI
 
