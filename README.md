@@ -16,6 +16,8 @@
 
 [Configurazione di un'interfaccia](https://github.com/matteob2609/Router-Cisco/blob/main/README.md#ghost-configurazione-di-uninterfaccia)
 
+---
+
 ### :ghost: COMANDI PRINCIPALI
 
 - _enable_, entra in modalità **Privileged Exec**, passaggio del terminale da > a #;
@@ -30,11 +32,15 @@
 
 [Torna su](https://github.com/matteob2609/Router-Cisco/blob/main/README.md#configurazione-di-un-router-cisco)
 
+---
+
 ### :ghost: MODIFICA DELL'HOSTNAME
 
 - _Router(config)#hostname 'nome'_
 
 [Torna su](https://github.com/matteob2609/Router-Cisco/blob/main/README.md#configurazione-di-un-router-cisco)
+
+---
 
 ### :ghost: PASSWORD PRIVILEGED EXEC
 
@@ -43,6 +49,8 @@
 - _Router(config)#enable secret 'password'_
 
 [Torna su](https://github.com/matteob2609/Router-Cisco/blob/main/README.md#configurazione-di-un-router-cisco)
+
+---
 
 ### :ghost: PASSWORD USER EXEC
 
@@ -54,6 +62,8 @@
 
 [Torna su](https://github.com/matteob2609/Router-Cisco/blob/main/README.md#configurazione-di-un-router-cisco)
 
+---
+
 ### :ghost: PASSWORD LINEE DEL TERMINALE VIRTUALE (VTY)
 
 - _Router(config)#line vty 0 15_
@@ -64,6 +74,8 @@
 
 [Torna su](https://github.com/matteob2609/Router-Cisco/blob/main/README.md#configurazione-di-un-router-cisco)
 
+---
+
 ### :ghost: CRITTOGRAFIA DELLE PASSWORD
 
 - _Router(config)#service password-encryption_
@@ -71,6 +83,8 @@
 :pushpin:`Checkpoint: verificare che le password siano state criptate inserendo il comando show running-config`.
 
 [Torna su](https://github.com/matteob2609/Router-Cisco/blob/main/README.md#configurazione-di-un-router-cisco)
+
+---
 
 ### :ghost: CONFIGURAZIONE DI UN'INTERFACCIA
 
