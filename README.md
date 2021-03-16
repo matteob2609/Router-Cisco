@@ -14,7 +14,7 @@
 
 [Crittografia delle password](https://github.com/matteob2609/Router-Cisco/blob/main/README.md#ghost-crittografia-delle-password)
 
-[Configurazione di un'interfaccia]()
+[Configurazione di un'interfaccia](https://github.com/matteob2609/Router-Cisco/blob/main/README.md#ghost-configurazione-di-uninterfaccia)
 
 ### :ghost: COMANDI PRINCIPALI
 
