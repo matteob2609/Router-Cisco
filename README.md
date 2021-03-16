@@ -2,7 +2,9 @@
 
 ❗ Prerequisito: avere Packet Tracer (risorsa Cisco) installato sul computer.
 
-[Configurazione IP & installazione pacchetti necessari]()
+[Comandi principali](https://github.com/matteob2609/Router-Cisco/blob/main/README.md#ghost-comandi-principali)
+
+
 
 ### :ghost: COMANDI PRINCIPALI
 
