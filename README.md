@@ -6,7 +6,7 @@
 
 [Modifica dell'hostname](https://github.com/matteob2609/Router-Cisco/blob/main/README.md#ghost-modifica-dellhostname)
 
-[Password Privileged EXEC]()
+[Password Privileged EXEC](https://github.com/matteob2609/Router-Cisco/blob/main/README.md#ghost-password-privileged-exec)
 
 [Password Eser EXEC]()
 
