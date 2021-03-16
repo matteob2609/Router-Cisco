@@ -2,6 +2,8 @@
 
 ❗ Prerequisito: avere Packet Tracer (risorsa Cisco) installato sul computer.
 
+[Configurazione IP & installazione pacchetti necessari]()
+
 ### :ghost: COMANDI PRINCIPALI
 
 - _enable_, entra in modalità **Privileged Exec**, passaggio del terminale da > a #;
