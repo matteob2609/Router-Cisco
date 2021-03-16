@@ -22,7 +22,7 @@
 
 - _enable_, entra in modalità **Privileged Exec**, passaggio del terminale da > a #;
 
-- _configure terminal_ oppure _conf t_, entra nella modalità di configurazione globale, contrassegnata da (config);
+- _configure terminal_ oppure _conf t_, entra nella modalità di **configurazione globale**, contrassegnata da (config);
 
 - _banner motd #messaggio#_, verrà visualizzato come prima cosa quando si accede alla CLI del router;
 
